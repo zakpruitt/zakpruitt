@@ -8,21 +8,17 @@ I'm currently a Senior Software Engineer @ Mastercard, working mostly on the bac
 
 #### Tools
 
-**Work**<br>
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java 17" title="Java 17">
-<img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot">
-<img src="https://raw.githubusercontent.com/zakpruitt/zakpruitt/master/icons/oracle.svg" height="40" alt="Oracle SQL" title="Oracle SQL">
-<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL">
-<img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" title="Jenkins">
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker">
-<img src="https://raw.githubusercontent.com/zakpruitt/zakpruitt/master/icons/claude.svg" height="40" alt="Claude Code" title="Claude Code">
-
-**Side projects**<br>
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript">
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React">
-<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite">
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" title="HTML">
-<img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" title="CSS">
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java 17" title="Java 17"> <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot">
+  &emsp;
+  <img src="https://raw.githubusercontent.com/zakpruitt/zakpruitt/master/icons/oracle.svg" height="40" alt="Oracle SQL" title="Oracle SQL"> <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL">
+  &emsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" title="Jenkins"> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker">
+  &emsp;
+  <img src="https://raw.githubusercontent.com/zakpruitt/zakpruitt/master/icons/claude.svg" height="40" alt="Claude Code" title="Claude Code">
+  &emsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript"> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"> <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite"> <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" title="HTML"> <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" title="CSS">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakpruitt/zakpruitt/output/snake-dark.svg">
