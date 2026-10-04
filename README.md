@@ -1,20 +1,14 @@
-<div align="center">
-  <h2>👋 Hello! I'm Zak.</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/zakpruitt/">LinkedIn</a> •
-    <a href="mailto:pruittzn@gmail.com">Email</a>
-  </p>
+### Hi, I'm Zak 👋
 
-  <div align="left">
-    <p>🔴🟡 I’m currently working at Mastercard as a software engineer</p>
-    <p>🔒 I’m currently learning more on open source development and secure API development</p>
-    <p>💬 Ask me about <strong>Java, Python, and CI/CD</strong></p>
-    <p>🤹 Fun fact: Big fan of the 🤹 emoji</p>
-  </div>
+Senior Software Engineer at **Mastercard** in St. Louis. I build Java/Spring Boot backend services for the Mastercard Settings platform, and I lead my team's adoption of agentic AI (Claude Code, Copilot, MCP servers).
 
-  <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=zakpruitt&amp;rank_icon=github&hide=issues" />
-  </a>
-</div>
+Outside work I build tools for my hobbies, mostly Pokémon cards and World of Warcraft.
+
+- 🗂️ **[MichiMaker](https://zakpruitt.github.io/michimaker/)**: plan Pokémon binders and "Michi method" art spreads
+- 🛒 **[JBay](https://github.com/zakpruitt/jbay)**: a lightweight Java client for eBay's REST APIs
+- 📦 **[collectingwithzak](https://github.com/zakpruitt/pbst)**: inventory and sales platform for my card business
+- ✍️ **[Funko Signings](https://zakpruitt.github.io/funko-signings/)**: track voice actor signings at cons
+
+**Stack:** Java · Spring Boot · PostgreSQL · TypeScript · React · Docker · Jenkins · MCP
+
+[Website](https://zakpruitt.github.io) · [LinkedIn](https://www.linkedin.com/in/zakpruitt/) · [Email](mailto:pruittzn@gmail.com)
