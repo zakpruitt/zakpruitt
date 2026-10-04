@@ -1,14 +1,14 @@
 ### Hi, I'm Zak 👋
 
-Senior Software Engineer at **Mastercard** in St. Louis. I build Java/Spring Boot backend services for the Mastercard Settings platform, and I lead my team's adoption of agentic AI (Claude Code, Copilot, MCP servers).
+Senior Software Engineer at Mastercard. On the side I build passion projects, and they all live on [my site](https://zakpruitt.github.io).
 
-Outside work I build tools for my hobbies, mostly Pokémon cards and World of Warcraft.
+[![Website](https://img.shields.io/badge/Website-0f7a55?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zakpruitt.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f7a55?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakpruitt/)
+[![Email](https://img.shields.io/badge/Email-0f7a55?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pruittzn@gmail.com)
 
-- 🗂️ **[MichiMaker](https://zakpruitt.github.io/michimaker/)**: plan Pokémon binders and "Michi method" art spreads
-- 🛒 **[JBay](https://github.com/zakpruitt/jbay)**: a lightweight Java client for eBay's REST APIs
-- 📦 **[collectingwithzak](https://github.com/zakpruitt/pbst)**: inventory and sales platform for my card business
-- ✍️ **[Funko Signings](https://zakpruitt.github.io/funko-signings/)**: track voice actor signings at cons
+[![Tech I work with](https://skillicons.dev/icons?i=java,spring,ts,react,postgres,docker,jenkins,py)](https://zakpruitt.github.io)
 
-**Stack:** Java · Spring Boot · PostgreSQL · TypeScript · React · Docker · Jenkins · MCP
-
-[Website](https://zakpruitt.github.io) · [LinkedIn](https://www.linkedin.com/in/zakpruitt/) · [Email](mailto:pruittzn@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakpruitt/zakpruitt/output/snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/zakpruitt/zakpruitt/output/snake.svg">
+</picture>
